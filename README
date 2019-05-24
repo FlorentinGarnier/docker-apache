@@ -1,0 +1,3 @@
+# Docker Apache
+
+Create volume for your vhosts `./path/vhosts.d:/usr/local/apache2/conf/vhost.d:ro`
