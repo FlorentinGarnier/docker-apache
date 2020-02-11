@@ -16,4 +16,4 @@ RUN mkdir /usr/local/apache2/conf/conf.d && \
 
 COPY conf.d /usr/local/apache2/conf/conf.d
 
-WORKDIR /var/www/html
+WORKDIR /srv/
